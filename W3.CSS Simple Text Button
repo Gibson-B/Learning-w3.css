@@ -1,0 +1,23 @@
+W3.CSS Simple Text Button 
+
+<!-- Button Bar / Simple -->
+<div class="w3-padding-32">
+ <div class="w3-btn-bar w3-border w3-show-inline-block">
+  <a href="#" class="w3-btn w3-blue w3-hover-light-blue">Button</a>
+  <a href="#" class="w3-btn w3-blue w3-hover-light-blue">Button</a>
+  <a href="#" class="w3-btn w3-blue w3-hover-light-blue">Button</a>
+  <a href="#" class="w3-btn w3-blue w3-hover-light-blue w3-hide-small">Button</a>
+ </div>
+</div>
+-- Classes Used -- 
+w3-padding-32             << Sets Padding to 32
+w3-btn-bar                << Creates a Button Bar for the Enclosed Buttons
+w3-border                 << Creates a Border for the div element
+w3-show-inline-block      << Puts all the Blocks in a Line
+w3-btn                    << btn class for w3.css
+w3-hide-small             << Hides this button on Small devices
+w3-blue                   << Give's it's element a blue background
+w3-hover-light-blue       << Changes the BG when u hover to light blue
+
+
+
